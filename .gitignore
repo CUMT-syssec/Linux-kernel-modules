@@ -1,0 +1,16 @@
+.cache/
+.build/
+.omx/
+.codex
+build-output/
+linux-hwe-5.15-source-5.15.0_*.deb
+*.o
+*.cmd
+*.mod
+*.mod.c
+*.order
+*.symvers
+*.d
+Module.symvers
+modules.order
+.tmp_versions/
